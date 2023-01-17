@@ -1,4 +1,4 @@
-# hidden_markov_modeling
+# hidden_markov_model and market regime
 
 - Folder Structure
   - src/
