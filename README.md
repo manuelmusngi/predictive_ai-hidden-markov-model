@@ -1,5 +1,21 @@
 # hidden_markov_modeling
 
+- Folder Structure
+  - src/
+│    app.js
+│    router.js
+└──  controllers/
+   │         adItem.js // advertisement management
+   │         advertiser.js  // advertiser management
+   │         campaign.js // ad campaign management
+   │         campaignAssignment.js // ad campaign allocation management
+   │         placement.js // zone allocation management
+   │         publisher.js // publisher management
+   │         report.js // statistics management
+   │         zone.js // zone management
+   ├── models/
+   └── routes/
+            
 
 - References
   - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
