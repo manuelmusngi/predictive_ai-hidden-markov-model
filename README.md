@@ -1,7 +1,9 @@
 ### hidden markov model and market regimes
 
-- Folder Structure
+- Structure
   - src/
+
+- Requirements
 
 - References
   - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
