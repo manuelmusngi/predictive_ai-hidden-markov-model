@@ -1,4 +1,4 @@
-#### hidden markov model and market regimes
+### hidden markov model and market regimes
 
 - Folder Structure
   - src/
