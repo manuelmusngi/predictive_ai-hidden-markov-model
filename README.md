@@ -1,6 +1,6 @@
 ### hidden markov model and market regimes
 
-An application of hidden markov model in pattern recognition in financial market.
+An application of hidden markov model in pattern recognition
 
 - Structure
   - src/
