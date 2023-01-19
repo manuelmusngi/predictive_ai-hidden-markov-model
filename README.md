@@ -1,4 +1,4 @@
-### hidden markov model and market regimes
+### hidden markov modeling
 
 An application of hidden markov model in pattern recognition
 
