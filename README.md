@@ -1,8 +1,9 @@
 ### hidden markov modeling
 
-An application of hidden markov model in pattern recognition
+An application of hidden markov model in pattern recognition.
 
-- Structure
+- File Structure
+  
   - src/
 
 - Requirements
