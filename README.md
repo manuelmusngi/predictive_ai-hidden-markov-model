@@ -1,4 +1,4 @@
-### hidden markov modeling
+### hidden markov model
 
 Application of hidden markov model in time series pattern recognition of market regimes.
 
