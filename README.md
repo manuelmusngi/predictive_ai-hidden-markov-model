@@ -3,7 +3,8 @@
 Application of hidden markov model in time series pattern recognition and market regimes.
 
 == Definition ==
-Let <math>X_n</math> and <math>Y_n</math> be discrete-time [[stochastic process]]es and <math>n\geq 1</math>. The pair <math>(X_n,Y_n)</math> is a ''hidden Markov model'' if
+
+$Let <math>X_n</math> and <math>Y_n</math> be discrete-time [[stochastic process]]es and <math>n\geq 1</math>. The pair <math>(X_n,Y_n)</math> is a ''hidden Markov model'' if$
 
 $$ * <math>X_n</math> is a [[Markov process]] whose behavior is not directly observable ("hidden");$$
 $$ * <math>\operatorname{\mathbf{P}}\bigl(Y_n \in A\ \bigl|\ X_1=x_1,\ldots,X_n=x_n\bigr)=\operatorname{\mathbf{P}}\bigl(Y_n \in A\ \bigl|\ X_n=x_n\bigr),</math>$$
