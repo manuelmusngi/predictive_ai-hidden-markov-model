@@ -1,6 +1,6 @@
 ### hidden markov model
 
-Application of hidden markov model in time series pattern recognition of market regimes.
+Application of hidden markov model in time series pattern recognition and market regimes.
 
 - File Structure
   
