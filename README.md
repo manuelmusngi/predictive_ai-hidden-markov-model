@@ -3,7 +3,7 @@
 Application of hidden markov model in time series pattern recognition and market regimes.
 
 - File Structure
-  - src/(https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
+  - [hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
 
 - Requirements
 
