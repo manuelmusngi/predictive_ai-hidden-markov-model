@@ -1,6 +1,6 @@
 ### hidden markov model
 
-This platform is an application of the hidden markov model in time series pattern recognition and market regimes inferences.
+This quantitative research project is an application of the hidden markov model in time series pattern recognition and market regimes inferences.
 
 - File Structure
   - [hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
