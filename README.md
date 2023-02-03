@@ -2,7 +2,8 @@
 
 This quantitative research project is an application of the hidden markov model in time series pattern recognition and market regimes inferences.
 
-- [hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
+- Application of hidden markov model
+  - [hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
 
 - Library Requirements
 
