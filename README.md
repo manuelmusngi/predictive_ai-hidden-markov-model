@@ -1,4 +1,4 @@
-### hidden markov model
+### hidden markov modeling
 
 This quantitative research project is an application of the hidden markov model in time series pattern recognition and market regimes inferences.
 
