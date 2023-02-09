@@ -1,7 +1,8 @@
 ### case study: hidden markov model
 
 This quantitative research case study is an application of the hidden markov model in time series pattern recognition and market regimes inferences.
-  - [hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
+
+[hidden markov model](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/src/1-Hidden-Markov-Models-for-Market_Regimes.ipynb)
 
 - References
   - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
