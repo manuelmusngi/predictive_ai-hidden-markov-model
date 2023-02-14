@@ -6,7 +6,7 @@ Hidden Markov Models has the ability to determine market regime state given cert
 - Hidden Markov Model and Market Regimes
   - [Market Regimes Inference:  ES E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
 
-- References
+- Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://arxiv.org/abs/2007.14874)
   - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
   - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801)
