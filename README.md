@@ -4,7 +4,7 @@ Quantitative strategy research in application of the hidden markov model in time
 Hidden Markov Models shows the ability to determine market regime state given certain features. 
 
 - Hidden Markov Model and Market Regimes
-  - [Market Regime Inferences:  ES E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
+  - [Market Regime Inferences - ES - E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
 
 - Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://arxiv.org/abs/2007.14874)
