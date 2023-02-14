@@ -13,6 +13,7 @@ Hidden Markov Models shows the ability to determine market regime state given ce
   - [Predicting Daily Probability Distributions of S&P500 Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1288468)
   - [Unraveling S&P500 stock volatility and networks -- An encoding-and-decoding approach](https://arxiv.org/abs/2101.09395)
   - [Hidden Markov Models Applied To Intraday Momentum Trading ](https://arxiv.org/abs/2006.08307)
+  - [Markov Models for Commodity Futures: Theory and Practice](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=1138782)
 
 - Library Dependencies
   - pandas v. 1.5.3
