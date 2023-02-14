@@ -1,6 +1,6 @@
 #### Hidden Markov Modeling
 
-This quantitative strategies research is an application of the hidden markov model in time series pattern recognition and market regime inferences.
+Quantitative strategy research in application of the hidden markov model in time series pattern recognition and market regime inferences.
 Hidden Markov Models shows the ability to determine market regime state given certain features. 
 
 - Hidden Markov Model and Market Regimes
