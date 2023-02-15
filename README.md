@@ -15,4 +15,5 @@ Hidden Markov Models shows the ability to determine market regime state given ce
   - [Hidden Markov Models Applied To Intraday Momentum Trading ](https://arxiv.org/abs/2006.08307)
   - [Markov Models for Commodity Futures: Theory and Practice](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=1138782)
 
-
+- Dependencies
+  - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
