@@ -18,6 +18,6 @@ Quantitative strategy research in simplistic approach to application of the hidd
 ##### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
   
-#### License
+##### License
   - [MIT License](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/LICENSE)
   
