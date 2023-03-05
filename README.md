@@ -8,13 +8,13 @@ Quantitative strategy research in simplistic approach to application of the hidd
 
 ##### Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://arxiv.org/abs/2007.14874)
+  - [Markov Models for Commodity Futures: Theory and Practice](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=1138782)
   - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
   - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801)
   - [Predicting Daily Probability Distributions of S&P500 Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1288468)
   - [Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory](https://arxiv.org/abs/2104.09700)
   - [Unraveling S&P500 stock volatility and networks -- An encoding-and-decoding approach](https://arxiv.org/abs/2101.09395)
   - [Hidden Markov Models Applied To Intraday Momentum Trading ](https://arxiv.org/abs/2006.08307)
-  - [Markov Models for Commodity Futures: Theory and Practice](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=1138782)
 
 ##### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
