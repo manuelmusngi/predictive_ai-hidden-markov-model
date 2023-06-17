@@ -3,7 +3,7 @@
 This quantitative research short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability 
 to determine market regime state defined by any selected features.
 
-Hidden Markov Models (HMM) is a statistical model that uses observed data to infer the underlying hidden states and make predictions based on probabilistic transitions between states.
+Hidden Markov Model (HMM) is a statistical model that uses observed data to infer the underlying hidden states and make predictions based on probabilistic transitions between states.
 
 ##### Hidden Markov Model and Market Regimes
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
