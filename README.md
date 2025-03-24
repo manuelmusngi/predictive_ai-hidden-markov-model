@@ -8,7 +8,6 @@ This quantitative research short study is a simplistic approach to the applicati
 
 Hidden Markov Model (HMM) is a statistical model that uses observed data to infer the underlying hidden states and make predictions based on probabilistic transitions between states.
 
-##### Hidden Markov Model and Market Regimes
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
