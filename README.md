@@ -1,4 +1,6 @@
-#### Hidden Markov Modeling
+#### Regime Switching Models
+
+#### Hidden Markov Model
 
 This quantitative research short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability 
 to determine market regime state defined by any selected features.
