@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 # Data Import
 start_date = "2017-01-1"
-end_date = "2022-06-1"
+end_date = "2024-06-1"
 symbol = "ES=F"
 data = yf.download(symbol, start_date, end_date)
 
