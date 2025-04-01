@@ -47,7 +47,7 @@ CUSUM (Cumulative Sum) and Sequential Analysis: Identify shifts in mean returns 
 ##### Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://github.com/manuelmusngi/regime_switching_models/blob/main/2007.14874v1.pdf)
   - [Markov Models for Commodity Futures: Theory and Practice](https://github.com/manuelmusngi/regime_switching_models/blob/main/ssrn-1138782.pdf)
-  - [Market Regime Identification Using Hidden Markov Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406068)
+  - [Market Regime Identification Using Hidden Markov Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/ssrn-3406068.pdf)
   - [Predicting Daily Probability Distributions of S&P500 Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1288468)
   - [Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory](https://arxiv.org/abs/2104.09700)
 
