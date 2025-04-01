@@ -45,7 +45,7 @@ class RegimeSwitchingModel:
         regime_column = pd.Series(results, name="regime")
         return pd.concat([data.reset_index(drop=True), regime_column], axis=1)
 
-# Example usage:
+#usage:
 
 # Define two example regimes
 def regime_1(data):
