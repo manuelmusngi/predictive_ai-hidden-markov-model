@@ -1,8 +1,10 @@
 #### Regime Switching Models
 
-Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
+Regime-switching models are widely used in financial markets to capture different market conditions (such as bull and bear markets, low and high volatility periods, or liquidity changes).
 
 #### Hidden Markov Model
+
+Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
 
 This quantitative research short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability to determine market regime state defined by any selected features.
 
