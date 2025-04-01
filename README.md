@@ -1,6 +1,6 @@
 #### Regime Switching Models
 
-Regime-switching models are widely used in financial markets to capture different market conditions (such as bull and bear markets, low and high volatility periods, or liquidity changes).
+Regime-switching models are widely used in financial markets to capture different market conditions, such as bull and bear markets, low and high volatility periods, or liquidity changes.
 
 #### 1. Markov Regime-Switching Models (MSM)
 Hamilton Model (1989): One of the most popular regime-switching models, where financial data follows different regimes with transition probabilities governed by a Markov process.
