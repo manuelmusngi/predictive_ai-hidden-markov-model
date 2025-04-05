@@ -4,25 +4,29 @@ from arch import arch_model
 from hmmlearn.hmm import GaussianHMM
 import matplotlib.pyplot as plt
 
-# Generate synthetic data
-np.random.seed(42)
-n_samples = 1000
-regimes = np.random.choice([0, 1], size=n_samples, p=[0.5, 0.5])
-returns = np.zeros(n_samples)
-for i in range(n_samples):
-    if regimes[i] == 0:
-        returns[i] = np.random.normal(0, 1)
-    else:
-        returns[i] = np.random.normal(0, 5)
+# Load SPX data
+data = pd.read_csv('path_to_your_spx_data.csv')  # Replace with the path to your data
+data['Date'] = pd.to_datetime(data['Date'])
+data.set_index('Date', inplace=True)
+
+# Calculate returns
+data['Returns'] = data['Close'].pct_change().dropna()
+
+# Prepare data for HMM
+returns = data['Returns'].values[1:].reshape(-1, 1)
 
 # Fit Hidden Markov Model to detect regimes
 hmm = GaussianHMM(n_components=2, covariance_type="diag", n_iter=1000)
-hmm.fit(returns.reshape(-1, 1))
-hidden_states = hmm.predict(returns.reshape(-1, 1))
+hmm.fit(returns)
+hidden_states = hmm.predict(returns)
+
+# Add hidden states to the data
+data = data.iloc[1:]  # Align with returns
+data['Regime'] = hidden_states
 
 # Separate data by regimes
-returns_regime_0 = returns[hidden_states == 0]
-returns_regime_1 = returns[hidden_states == 1]
+returns_regime_0 = data.loc[data['Regime'] == 0, 'Returns']
+returns_regime_1 = data.loc[data['Regime'] == 1, 'Returns']
 
 # Fit GARCH models for each regime
 garch_0 = arch_model(returns_regime_0, vol='Garch', p=1, q=1)
@@ -39,8 +43,8 @@ print(res_garch_1.summary())
 
 # Plot results
 plt.figure(figsize=(12, 8))
-plt.plot(returns, label='Returns')
-plt.plot(hidden_states, label='Regimes', linestyle='--')
+plt.plot(data['Returns'], label='Returns')
+plt.plot(data['Regime'], label='Regimes', linestyle='--')
 plt.legend()
 plt.title('Returns and Detected Regimes')
 plt.show()
