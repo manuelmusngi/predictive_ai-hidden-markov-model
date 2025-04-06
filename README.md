@@ -2,7 +2,7 @@
 
 Regime-switching models are widely used in financial markets to capture different market conditions, such as bull and bear markets, low and high volatility periods, or liquidity changes.
 
-#### 1. Markov Regime-Switching Models (MSM)
+#### 1. Markov Regime-Switching Models
 Hamilton Model (1989): One of the most popular regime-switching models, where financial data follows different regimes with transition probabilities governed by a Markov process.
 
 Hidden Markov Models (HMMs): A probabilistic model where market states (regimes) are unobservable (hidden) and must be inferred from observed data such as returns or volatility.
@@ -14,7 +14,7 @@ This quantitative research short study is a simplistic approach to the applicati
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
-#### 2. Stochastic Volatility with Regime-Switching
+#### 2. Stochastic Volatility with Regime-Switching Models
 Heston Model with Regime-Switching: Volatility follows a stochastic process, but it switches regimes based on a Markov chain.
 
 GARCH with Regime-Switching: Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models with different volatility regimes.
