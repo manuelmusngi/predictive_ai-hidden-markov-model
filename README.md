@@ -12,7 +12,7 @@ Markov-based methodologies model the inherent uncertainty, regime shifts, and tr
 This quantitative research short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability to determine market regime state defined by any selected features.
 
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
-  - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
+  - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
 #### 2. Stochastic Volatility with Regime-Switching Models
 Heston Model with Regime-Switching: Volatility follows a stochastic process, but it switches regimes based on a Markov chain.
