@@ -52,6 +52,4 @@ CUSUM (Cumulative Sum) and Sequential Analysis: Identify shifts in mean returns 
 ##### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
   
-##### License
-  - [MIT License](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/LICENSE)
   
