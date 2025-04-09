@@ -15,7 +15,7 @@ This quantitative research short study is a simplistic approach to the applicati
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
 #### 2. Stochastic Volatility with Regime-Switching Models
-Heston Model with Regime-Switching: Volatility follows a stochastic process, but it switches regimes based on a Markov chain.
+Heston Model with Regime-Switching: Volatility follows a stochastic process, but switches regimes based on a Markov chain.
 
 GARCH with Regime-Switching: Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models with different volatility regimes.
 
