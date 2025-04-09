@@ -9,7 +9,7 @@ Hidden Markov Models (HMMs): A probabilistic model where market states (regimes)
 
 Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
 
-This quantitative research short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability to determine market regime state defined by any selected features.
+This quantitative analysis short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability to determine market regime state defined by any selected features.
 
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/1-Hidden-Markov-Modeling%20-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
