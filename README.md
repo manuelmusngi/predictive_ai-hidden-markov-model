@@ -3,8 +3,6 @@
 Regime-switching models are widely used in financial markets to capture different market conditions, such as bull and bear markets, low and high volatility periods, or liquidity changes.
 
 #### 1. Markov Regime-Switching Models
-Hamilton Model (1989): One of the most popular regime-switching models, where financial data follows different regimes with transition probabilities governed by a Markov process.
-
 Hidden Markov Models (HMMs): A probabilistic model where market states (regimes) are unobservable (hidden) and must be inferred from observed data such as returns or volatility.
 
 Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
