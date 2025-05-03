@@ -46,6 +46,7 @@ CUSUM (Cumulative Sum) and Sequential Analysis: Identify shifts in mean returns 
   - [Markov Models for Commodity Futures: Theory and Practice](https://github.com/manuelmusngi/regime_switching_models/blob/main/ssrn-1138782.pdf)
   - [Predicting Daily Probability Distributions of S&P500 Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1288468)
   - [Option Pricing in a Regime Switching Stochastic Volatility Model](https://arxiv.org/abs/1707.01237)
+  - [A Markov-switching spatio-temporal ARCH model](https://arxiv.org/abs/2310.02630)
 
 ##### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
