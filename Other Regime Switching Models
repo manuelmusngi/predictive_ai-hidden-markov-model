@@ -24,3 +24,4 @@ Useful when market transitions are not sudden but evolve smoothly over time.
 Bayesian Change-Point Models: Use Bayesian inference to detect structural breaks in market conditions.
 
 CUSUM (Cumulative Sum) and Sequential Analysis: Identify shifts in mean returns or volatility over time.
+
