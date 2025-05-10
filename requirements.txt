@@ -1,5 +1,8 @@
-pandas>=1.5.3
-numpy>=1.24.2
-yfinance>=0.2.11
-matplotlib>=3.7.0
-tqdm>=4.64.1
+numpy
+pandas
+pyyaml
+matplotlib
+yfinance
+pyhhmm
+tqdm
+scikit-learn
