@@ -15,7 +15,7 @@ This quantitative analysis short study is a simplistic approach to the applicati
 
 ##### Other Regime Switching Models
 
-- [Other Regime Switching Models(https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
+[Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
 
 ##### Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://github.com/manuelmusngi/regime_switching_models/blob/main/2007.14874v1.pdf)
