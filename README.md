@@ -13,18 +13,18 @@ This quantitative analysis short study is a simplistic approach to the applicati
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/1-Hidden-Markov-Modeling-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
-##### Other Regime Switching Models
+#### Other Regime Switching Models
 
 [Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
 
-##### Model References
+#### Model References
   - [Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models](https://github.com/manuelmusngi/regime_switching_models/blob/main/2007.14874v1.pdf)
   - [Markov Models for Commodity Futures: Theory and Practice](https://github.com/manuelmusngi/regime_switching_models/blob/main/ssrn-1138782.pdf)
   - [Predicting Daily Probability Distributions of S&P500 Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1288468)
   - [Option Pricing in a Regime Switching Stochastic Volatility Model](https://arxiv.org/abs/1707.01237)
   - [A Markov-switching spatio-temporal ARCH model](https://arxiv.org/abs/2310.02630)
 
-##### Dependencies
+#### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
   
   
