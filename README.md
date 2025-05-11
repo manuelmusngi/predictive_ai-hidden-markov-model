@@ -15,15 +15,15 @@ This quantitative analysis short study is a simplistic approach to the applicati
 
 #### project directory structure
 
-regime_switching_models/
-├── config/
+regime_switching_models/\
+├── config/\
 │   ├── config.yaml          
-├── data/
+├── data/\
 │   ├── raw/                  
 │   ├── processed/            
-├── logs/
+├── logs/\
 │   ├── app.log               
-├── src/
+├── src/\
 │   ├── __init__.py          
 │   ├── data_loader.py        
 │   ├── feature_engineering.py  
@@ -32,13 +32,13 @@ regime_switching_models/
 │   ├── backtesting.py        
 │   ├── utils.py              
 │   ├── plotter.py            
-├── tests/
+├── tests/\
 │   ├── test_data_loader.py  
 │   ├── test_feature_engineering.py  
 │   ├── test_hmm_model.py     
 │   ├── test_signal_generation.py  
 │   ├── test_backtesting.py   
-├── notebooks/
+├── notebooks/\
 │   ├── exploratory_analysis.ipynb  
 ├── requirements.txt          
 ├── main.py                   
