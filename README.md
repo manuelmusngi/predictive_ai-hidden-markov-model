@@ -13,6 +13,38 @@ This quantitative analysis short study is a simplistic approach to the applicati
   - [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/1-Hidden-Markov-Modeling-%20ES%20-%20E-mini%20S%26P%20500.ipynb)
   - [Hidden-Markov-Models- ES - Systematic-Strategy](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/2-Hidden-Markov-Models-%20ES%20-%20Systematic-Strategy.ipynb)
 
+#### project directory structure
+
+regime_switching_models/
+├── config/
+│   ├── config.yaml          
+├── data/
+│   ├── raw/                  
+│   ├── processed/            
+├── logs/
+│   ├── app.log               
+├── src/
+│   ├── __init__.py          
+│   ├── data_loader.py        
+│   ├── feature_engineering.py  
+│   ├── hmm_model.py          
+│   ├── signal_generation.py  
+│   ├── backtesting.py        
+│   ├── utils.py              
+│   ├── plotter.py            
+├── tests/
+│   ├── test_data_loader.py  
+│   ├── test_feature_engineering.py  
+│   ├── test_hmm_model.py     
+│   ├── test_signal_generation.py  
+│   ├── test_backtesting.py   
+├── notebooks/
+│   ├── exploratory_analysis.ipynb  
+├── requirements.txt          
+├── main.py                   
+├── README.md                 
+└── setup.py                  
+
 #### Other Regime Switching Models
 
 [Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
