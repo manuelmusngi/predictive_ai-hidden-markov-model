@@ -1,5 +1,5 @@
 """
-src: Core package for Regime Switching Models Project.
+Core package for Regime Switching Models Project.
 This package contains modules for data loading, feature engineering, 
 model training, signal generation, backtesting, and visualization.
 """
