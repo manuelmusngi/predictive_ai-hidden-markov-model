@@ -45,6 +45,9 @@ regime_switching_models/\
 ├── README.md                 
 └── setup.py                  
 
+#### Dependencies
+  - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
+
 #### Other Regime Switching Models
 
 [Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
@@ -56,7 +59,6 @@ regime_switching_models/\
   - [Option Pricing in a Regime Switching Stochastic Volatility Model](https://arxiv.org/abs/1707.01237)
   - [A Markov-switching spatio-temporal ARCH model](https://arxiv.org/abs/2310.02630)
 
-#### Dependencies
-  - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
+
   
   
