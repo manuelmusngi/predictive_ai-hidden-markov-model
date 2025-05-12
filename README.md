@@ -26,10 +26,10 @@ regime_switching_models/\
 ├── src/\
 │   ├── __init__.py          
 │   ├── [data_loader.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/data_loader.py)        
-│   ├── feature_engineering.py  
-│   ├── hmm_model.py          
-│   ├── signal_generation.py  
-│   ├── backtesting.py        
+│   ├── [feature_engineering.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/feature_engineering.py)  
+│   ├── [hmm_model.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/hmm_model.py)          
+│   ├── [signal_generation.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/signal_generation.py)  
+│   ├── [backtesting.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/backtesting.py)        
 │   ├── utils.py              
 │   ├── plotter.py            
 ├── tests/\
