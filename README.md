@@ -17,7 +17,7 @@ This quantitative analysis short study is a simplistic approach to the applicati
 
 regime_switching_models/\
 ├── config/\
-│   ├── config.yaml          
+│   ├── [config.yaml](https://github.com/manuelmusngi/regime_switching_models/blob/main/config/config.yaml)
 ├── data/\
 │   ├── raw/                  
 │   ├── processed/            
