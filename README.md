@@ -42,8 +42,7 @@ regime_switching_models/\
 │   ├── exploratory_analysis.ipynb  
 ├── [requirements.txt](https://github.com/manuelmusngi/regime_switching_models/blob/main/requirements.txt)          
 ├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
-├── README.md                 
-└── setup.py                  
+└──  README.md                                   
 
 #### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
