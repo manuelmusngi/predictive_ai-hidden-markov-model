@@ -41,7 +41,7 @@ regime_switching_models/\
 ├── notebooks/\
 │   ├── exploratory_analysis.ipynb  
 ├── requirements.txt          
-├── main.py                   
+├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
 ├── README.md                 
 └── setup.py                  
 
