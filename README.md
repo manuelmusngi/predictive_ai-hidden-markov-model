@@ -25,7 +25,7 @@ regime_switching_models/\
 │   ├── app.log               
 ├── src/\
 │   ├── __init__.py          
-│   ├── data_loader.py        
+│   ├── [data_loader.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/data_loader.py)        
 │   ├── feature_engineering.py  
 │   ├── hmm_model.py          
 │   ├── signal_generation.py  
