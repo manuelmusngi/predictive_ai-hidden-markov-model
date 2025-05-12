@@ -31,7 +31,7 @@ regime_switching_models/\
 │   ├── [signal_generation.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/signal_generation.py)  
 │   ├── [backtesting.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/backtesting.py)        
 │   ├── [utils.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/utils.py)              
-│   ├── plotter.py            
+│   ├── [plotter.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/plotter.py)            
 ├── tests/\
 │   ├── test_data_loader.py  
 │   ├── test_feature_engineering.py  
