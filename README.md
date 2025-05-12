@@ -40,7 +40,7 @@ regime_switching_models/\
 │   ├── test_backtesting.py   
 ├── notebooks/\
 │   ├── exploratory_analysis.ipynb  
-├── requirements.txt          
+├── [requirements.txt](https://github.com/manuelmusngi/regime_switching_models/blob/main/requirements.txt)          
 ├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
 ├── README.md                 
 └── setup.py                  
