@@ -1,0 +1,16 @@
+data:
+  symbol: "ES=F"
+  start_date: "2017-01-01"
+  end_date: "2024-06-01"
+  raw_data_path: "data/raw/"
+  processed_data_path: "data/processed/"
+
+model:
+  n_states: 4
+  covariance_type: "full"
+  n_emissions: 2
+
+backtesting:
+  favorable_states: [0, 1]
+  risk_free_rate: 0.01
+  annual_trading_days: 255
