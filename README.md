@@ -17,12 +17,7 @@ This quantitative analysis short study is a simplistic approach to the applicati
 
 regime_switching_models/\
 ├── config/\
-│   ├── [config.yaml](https://github.com/manuelmusngi/regime_switching_models/blob/main/config/config.yaml)\
-├── data/\
-│   ├── raw/                  
-│   ├── processed/            
-├── logs/\
-│   ├── app.log               
+│   ├── [config.yaml](https://github.com/manuelmusngi/regime_switching_models/blob/main/config/config.yaml)\              
 ├── src/\
 │   ├── [__init__.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/init.py)          
 │   ├── [data_loader.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/data_loader.py)        
@@ -31,15 +26,7 @@ regime_switching_models/\
 │   ├── [signal_generation.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/signal_generation.py)  
 │   ├── [backtesting.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/backtesting.py)        
 │   ├── [utils.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/utils.py)              
-│   ├── [plotter.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/plotter.py)            
-├── tests/\
-│   ├── test_data_loader.py  
-│   ├── test_feature_engineering.py  
-│   ├── test_hmm_model.py     
-│   ├── test_signal_generation.py  
-│   ├── test_backtesting.py   
-├── notebooks/\
-│   ├── exploratory_analysis.ipynb  
+│   ├── [plotter.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/plotter.py)             
 ├── [requirements.txt](https://github.com/manuelmusngi/regime_switching_models/blob/main/requirements.txt)          
 ├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
 └── [README.md](https://github.com/manuelmusngi/regime_switching_models/blob/main/README.md)                                   
