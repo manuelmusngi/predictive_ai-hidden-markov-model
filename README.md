@@ -59,6 +59,9 @@ regime_switching_models/\
   - [Option Pricing in a Regime Switching Stochastic Volatility Model](https://arxiv.org/abs/1707.01237)
   - [A Markov-switching spatio-temporal ARCH model](https://arxiv.org/abs/2310.02630)
 
+#### License
+This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
+
 
   
   
