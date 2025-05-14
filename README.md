@@ -36,6 +36,7 @@ regime_switching_models/\
 
 #### Other Regime Switching Models
 
+Further enhancements will include Other Regime Switching Models.
 [Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
 
 #### Model References
