@@ -1,10 +1,10 @@
 #### Regime Switching Models
+This project explores a variety of Regime-Switching Models to analyze financial time series data. These models aim to identify, predict, and understand market regime shifts, which are fundamental to improving trading strategies, risk management, and portfolio optimization.
 
-Regime-switching models are widely used in financial markets to capture different market conditions, such as bull and bear markets, low and high volatility periods, or liquidity changes.
+The repository includes implementations of statistical, machine learning, and econometric models for regime-switching analysis, with a focus on production-ready pipelines for model training, evaluation, and backtesting.
 
 #### Markov Regime-Switching Models
 Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
-
 
 Hidden Markov Models (HMMs): A probabilistic model where market states (regimes) are unobservable (hidden) and must be inferred from observed data such as returns or volatility.
 
