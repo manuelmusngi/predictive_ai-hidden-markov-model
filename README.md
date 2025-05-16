@@ -31,9 +31,6 @@ regime_switching_models/\
 ├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
 └── [README.md](https://github.com/manuelmusngi/regime_switching_models/blob/main/README.md)  
 
-#### Class-based development
-- [regime_switching_system.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/regime_switching_system.py)
-
 #### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
 
