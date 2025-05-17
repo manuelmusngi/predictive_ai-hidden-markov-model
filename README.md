@@ -28,8 +28,8 @@ regime_switching_models/\
 │   ├── [utils.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/utils.py)              
 │   ├── [plotter.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/plotter.py)             
 ├── [requirements.txt](https://github.com/manuelmusngi/regime_switching_models/blob/main/requirements.txt)          
-├── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
-└── [README.md](https://github.com/manuelmusngi/regime_switching_models/blob/main/README.md)  
+└── [main.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/main.py)                   
+
 
 #### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
