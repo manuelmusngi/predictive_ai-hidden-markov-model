@@ -16,8 +16,8 @@ This quantitative analysis short study is a simplistic approach to the applicati
 #### Project architecture  
 
 regime_switching_models/\
-├── config/
-│   ├── [config.yaml](https://github.com/manuelmusngi/regime_switching_models/blob/main/config/config.yaml)\              
+├── config/\
+│   ├── [config.yaml](https://github.com/manuelmusngi/regime_switching_models/blob/main/config/config.yaml)         
 ├── src/\
 │   ├── [__init__.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/init.py)          
 │   ├── [data_loader.py](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/data_loader.py)        
